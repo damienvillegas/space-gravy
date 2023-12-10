@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Space Gravy</string>
+    <string name="random_image">Random Image</string>
+    <string name="submit">Submit</string>
+    <string name="get_a_space_picture_for_any_day">Get a space picture for any day!</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="firstname">Firstname</string>
+    <string name="sign_in">Sign In</string>
+    <string name="astronomy_picture_of_the_day">Astronomy Picture of the Day</string>
+    <string name="nasa_image_library">NASA Image Library</string>
+    <string name="profile">Profile</string>
+    <string name="search_term">Search term</string>
+    <string name="download">Download</string>
+    <string name="saved_images">Saved Images</string>
+    <string name="save">Save</string>
+    <string name="title">Title</string>
+    <string name="lastname">Lastname</string>
+    <string name="remember_me">Remember Me</string>
+</resources>

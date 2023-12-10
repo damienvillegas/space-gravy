@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Space Gravy</string>
+    <string name="random_image">Imagen Aleatoria</string>
+    <string name="submit">Entregar</string>
+    <string name="get_a_space_picture_for_any_day">Consigue una imagen espacial para cualquier día!</string>
+    <string name="confirm_password">Confirmar Contraseña</string>
+    <string name="create_account">Crear una Cuenta</string>
+    <string name="password">Contraseña</string>
+    <string name="email">Correo Electrónico</string>
+    <string name="firstname">Nombre</string>
+    <string name="sign_in">Iniciar Sesión</string>
+    <string name="astronomy_picture_of_the_day">Imagen Astronómica del Día</string>
+    <string name="nasa_image_library">Biblioteca de imágenes de la NASA</string>
+    <string name="profile">Cuenta</string>
+    <string name="search_term">" Término de Búsqueda"</string>
+    <string name="download">" Descargar"</string>
+    <string name="saved_images">" Imágenes Guardadas"</string>
+    <string name="save">Guardar</string>
+    <string name="title">Título</string>
+    <string name="lastname">" Apellido"</string>
+    <string name="remember_me">Acuérdate de mí</string>
+</resources>
