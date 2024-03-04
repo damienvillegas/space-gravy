@@ -20,6 +20,23 @@ To run this app you will need a (free) API key and (free) Firebase project. I've
 
 ## Showcase
 
+![image](images/showcase1.png)
+
+![image](images/showcase2.png)
+
+![image](images/showcase3.png)
+
+![image](images/showcase4.png)
+
+![image](images/showcase5.png)
+
+![image](images/showcase6.png)
+
+![image](images/showcase7.png)
+
+![image](images/showcase8.png)
+
+![image](images/showcase9.png)
 
 ## Tutorial 
 
