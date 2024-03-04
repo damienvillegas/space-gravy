@@ -6,7 +6,7 @@ GW 2023 project for CSCI4237 - Software Development for Handheld Devices by Dami
 
 *Space Gravy* is a space image app using [NASA API](https://api.nasa.gov/) and [Firebase](https://firebase.google.com/?gad_source=1&gclid=EAIaIQobChMI89Sx7viFgwMVTvnICh2NsQxoEAAYASAAEgLH9_D_BwE&gclsrc=aw.ds) Users can look at the astronomy pictures of the day (APOD), search terms using the NASA image library, and save images to their profile. It's the perfect app for looking at space and marveling at its beauty.
 
-To run this app you will need a (free) API key and (free) Firebase project. I've provided a tutorial to show how to set up Space Gravy locally and where to put the API keys.
+To run this app you will need a (free) API key and (free) Firebase project. Refer to my other [tutorial](https://github.com/damienvillegas/android-news?tab=readme-ov-file#tutorial) on how to get the project up and running. For step 1, instead of naming the folder "project1", name it "spacegravy". Note that you will have to find a different tutorial on how to setup/create a Firebase project.
 
 ## Features
 
@@ -37,14 +37,3 @@ To run this app you will need a (free) API key and (free) Firebase project. I've
 ![image](images/showcase8.png)
 
 ![image](images/showcase9.png)
-
-## Tutorial 
-
-### Step 1
-
-
-### Step 2
-
-
-### Step 3
-
